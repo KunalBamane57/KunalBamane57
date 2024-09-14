@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software developer<br> I’m currently Pursuing BTech From IIIT Jabalpur<br>All of my projects are available at [Github Profile]<br>How to reach me Kunal1234.bamane@gmail.com
+I'm a software developer<br> Currently Pursuing BTech From IIIT Jabalpur<br>All of my projects are available at [Github Profile]<br>How to reach me Kunal1234.bamane@gmail.com
 
 
 ## 🌐 Socials:
